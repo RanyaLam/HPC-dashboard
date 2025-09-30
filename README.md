@@ -31,4 +31,4 @@ This Streamlit app analyzes usage of the CNRST HPC (MARWAN) cluster using SLURM 
 
 ## Authors
 
-Internship team (your names here)
+Internship team: Ranya Laamari/ Nada Aznak/Mohamed chiguer/ Safouane Bouskif
